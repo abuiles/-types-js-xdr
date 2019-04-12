@@ -9,6 +9,7 @@
   ],
   "license": "MIT",
   "devDependencies": {
+    "@types/long": "^4.0.0",
     "typescript": "^3.4.3"
   }
 }
