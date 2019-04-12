@@ -1,0 +1,14 @@
+{
+  "name": "types-js-xdr",
+  "version": "0.0.1",
+  "description": "TypeScript definitions for js-xdr.",
+  "repository": "git@github.com:abuiles/types-js-xdr.git",
+  "contributors": [
+    "Timur Ramazanov <charlie.vmk@gmail.com>",
+    "Adolfo Builes <builes.adolfo@gmail.com>"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^3.4.3"
+  }
+}
